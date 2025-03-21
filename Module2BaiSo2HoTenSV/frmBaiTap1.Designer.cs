@@ -1,6 +1,6 @@
 ﻿namespace Module2BaiSo2HoTenSV
 {
-    partial class Form1
+    partial class frmBaiTap1
     {
         /// <summary>
         /// Required designer variable.

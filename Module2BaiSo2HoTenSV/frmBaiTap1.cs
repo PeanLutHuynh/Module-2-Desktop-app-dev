@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Module2BaiSo2HoTenSV
 {
-    public partial class Form1 : Form
+    public partial class frmBaiTap1 : Form
     {
-        public Form1()
+        public frmBaiTap1()
         {
             InitializeComponent();
         }

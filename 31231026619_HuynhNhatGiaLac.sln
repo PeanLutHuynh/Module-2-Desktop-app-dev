@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo1HuynhNhatGiaLac", "Module2BaiSo1HuynhNhatGiaLac\Module2BaiSo1HuynhNhatGiaLac.csproj", "{6F8FCA04-8BC5-40D6-8FF3-F18DE27DDA21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo2HoTenSV", "Module2BaiSo2HoTenSV\Module2BaiSo2HoTenSV.csproj", "{7C02F909-5BE6-4515-B53E-8F96B7758C77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo2HuynhNhatGiaLac", "Module2BaiSo2HoTenSV\Module2BaiSo2HuynhNhatGiaLac.csproj", "{7C02F909-5BE6-4515-B53E-8F96B7758C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
