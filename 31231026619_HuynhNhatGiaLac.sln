@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo1HuynhNhatGiaLac", "Module2BaiSo1HuynhNhatGiaLac\Module2BaiSo1HuynhNhatGiaLac.csproj", "{6F8FCA04-8BC5-40D6-8FF3-F18DE27DDA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2BaiSo2HoTenSV", "Module2BaiSo2HoTenSV\Module2BaiSo2HoTenSV.csproj", "{7C02F909-5BE6-4515-B53E-8F96B7758C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8FCA04-8BC5-40D6-8FF3-F18DE27DDA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8FCA04-8BC5-40D6-8FF3-F18DE27DDA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8FCA04-8BC5-40D6-8FF3-F18DE27DDA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8FCA04-8BC5-40D6-8FF3-F18DE27DDA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C02F909-5BE6-4515-B53E-8F96B7758C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C02F909-5BE6-4515-B53E-8F96B7758C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C02F909-5BE6-4515-B53E-8F96B7758C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C02F909-5BE6-4515-B53E-8F96B7758C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
